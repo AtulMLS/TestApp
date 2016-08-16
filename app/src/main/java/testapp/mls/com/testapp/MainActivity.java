@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own other action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
-                Toast.makeText(MainActivity.this, "Toast data ffffffffffff", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Toast data gkjhgkjghgg ffffffffffff", Toast.LENGTH_SHORT).show();
             }
         });
     }
